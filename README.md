@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shikha Kumari</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center"> I'm Shikha Kumari, a software enthusiast on a mission to create sleek frontend experiences and dive deep into the world of C++ and Data Structures. With a knack for problem-solving, I'm driven by the thrill of turning challenges into innovative solutions.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif">
 
